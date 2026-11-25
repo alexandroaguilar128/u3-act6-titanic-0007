@@ -1,5 +1,6 @@
 ## UIII Act 6  Importación y descripción de datos con Pandas ML
 ### Alexandro Aguilar NC 0007
+![alt text](image-9.png)
 ## Conceptos Básicos
 Antes de tocar el código, es fundamental entender los "4 jinetes del apocalipsis" de los datos:
 | 🚨 Problema | 📝 Descripción | 💡 Ejemplo |
